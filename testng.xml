@@ -1,0 +1,38 @@
+
+<suite name="Suite1Axis"  >
+  <test name="Test1ForAxis">
+	  
+	
+	 
+    <classes>
+     
+
+       <class name="AxisBank.testNG.ReadExcel"/>
+
+    
+    </classes>
+<!-- <class name="AxisBank.testNG.Test1"/>
+<class name="AxisBank.testNG.SimpleTest"/>
+<class name="AxisBank.testNG.Grouping"/>
+        <class name="AxisBank.testNG.softassert_eg"/>
+         <class name="AxisBank.testNG.HardAssert"/>
+         <class name="AxisBank.testNG.Test1"/>
+         <class name="AxisBank.testNG.Test2"/>
+<class name="AxisBank.testNG.Parallel"/>
+<parameter name="browser" value="firefox"></parameter>
+
+  <groups>
+		<define name="Rajubhai">
+		<include name="Sanity"></include>
+		<include name="Regression"></include>
+
+		<run>
+			<include name="Rajubhai"></include>
+		</run>
+		</define>
+	
+	  </groups>
+ -->
+<!-- Suite1Axis -->
+  </test>
+</suite>
