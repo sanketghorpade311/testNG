@@ -19,7 +19,7 @@ public class HardAssert {
 
 		// Performing hard assert on the title
 		String actualTitle = driver.getTitle();
-		String expectedTitle = "Orange";
+		String expectedTitle = "OrangeHR";
 		Assert.assertEquals(expectedTitle, actualTitle, "Title mismatch!");
 
 		// Performing actions only if the title assertion passes

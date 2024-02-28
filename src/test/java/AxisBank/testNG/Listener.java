@@ -12,7 +12,7 @@ public class Listener implements ITestListener {
 		System.out.println("Test method " + result.getName() + " started");
 	}
 
-	// This method is invoked each time a test method succeeds
+	// This is a test method created to solve
 	public void onTestSuccess(ITestResult result) {
 		System.out.println("Test method " + result.getName() + " passed");
 	}
